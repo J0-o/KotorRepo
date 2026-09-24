@@ -25,5 +25,39 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/k1.json data/k2.json
-          git diff --cached --quiet || git commit -m "Update mod lists"
+
+          if git diff --cached --quiet; then
+            echo "No mod list changes."
+            exit 0
+          fi
+
+          changes="$(
+            for game in k1 k2; do
+              file="data/$game.json"
+              previous="$(mktemp)"
+              git show "HEAD:$file" > "$previous"
+
+              jq -r -n \
+                --arg game "${game^^}" \
+                --slurpfile old "$previous" \
+                --slurpfile new "$file" '
+                  ($old[0].mods | map({key: .url, value: .}) | from_entries) as $before |
+                  ($new[0].mods | map({key: .url, value: .}) | from_entries) as $after |
+                  ((($before | keys) + ($after | keys)) | unique[]) as $url |
+                  select($before[$url] != $after[$url]) |
+                  "- \($game): \(($after[$url] // $before[$url]).name)"
+                '
+
+              rm "$previous"
+            done
+          )"
+
+          {
+            echo "Update mod lists"
+            echo
+            echo "Updated mods:"
+            echo "$changes"
+          } > "$RUNNER_TEMP/commit-message.txt"
+
+          git commit -F "$RUNNER_TEMP/commit-message.txt"
           git push
