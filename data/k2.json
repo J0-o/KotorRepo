@@ -1,0 +1,2506 @@
+{
+  "source": "https://raw.githubusercontent.com/KOTOR-Community-Portal/mod-builds/dev/content/k2/full.md",
+  "mods": [
+    {
+      "name": "4GB Patcher",
+      "url": "https://ntcore.com/?page_id=371"
+    },
+    {
+      "name": "The Sith Lords Restored Content Mod",
+      "url": "https://deadlystream.com/files/file/578-tsl-restored-content-mod/",
+      "metadata": {
+        "title": "TSL Restored Content Mod",
+        "author": "zbyl2",
+        "latestVersion": "1.8.6",
+        "latestVersionReleaseDate": "2022-08-23T17:25:18Z",
+        "originalUploadDate": "2015-07-21T16:59:21Z",
+        "versionHistory": "1.8.6, 1.8.6, 1.8.6, 1.8.6, 1.8.6, 1.8.6, 1.8.6, 1.8.6, 1.8.6, 1.8.6, 1.8.5, 1.8.5, 1.8.5, 1.8.5_credited, 1.8.5, 1.8.5, 1.8.5, 1.8.5, 1.8.5, 1.8.5, 1.8.5, 1.8.5, 1.8.5",
+        "availableDownloads": [
+          {
+            "fileName": "tslrcm2022.exe"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TSLRCM Tweak Pack",
+      "url": "http://deadlystream.com/files/file/296-unofficial-tslrcm-tweak-pack/",
+      "metadata": {
+        "title": "Unofficial TSLRCM Tweak Pack",
+        "author": "Pavijan357",
+        "latestVersion": "1.3",
+        "latestVersionReleaseDate": "2021-11-22T09:45:46Z",
+        "originalUploadDate": "2013-03-08T18:32:11Z",
+        "versionHistory": "1.3, 1.2.4, 1.2.3, 1.2.2, 1.2.2",
+        "availableDownloads": [
+          {
+            "fileName": "URCMTP 1.3.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Silent Sion Restoration",
+      "url": "https://deadlystream.com/files/file/2426-silent-sion-restoration/",
+      "metadata": {
+        "title": "Silent Sion Restoration",
+        "author": "Emperor Devon",
+        "latestVersionReleaseDate": "2024-02-24T21:28:08Z",
+        "originalUploadDate": "2024-02-19T03:49:34Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "Silent Sion Restoration.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Thematic KOTOR 2 Companions",
+      "url": "https://deadlystream.com/files/file/2662-thematic-kotor-2-companions/",
+      "metadata": {
+        "title": "Thematic KOTOR 2 Companions",
+        "author": "JCarter426",
+        "latestVersion": "1.0.3",
+        "latestVersionReleaseDate": "2026-08-31T01:14:38Z",
+        "originalUploadDate": "2025-02-12T09:19:05Z",
+        "versionHistory": "1.0.3, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "KOTOR2-Thematic-Companions_v1.0.3.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Prestige Class Saving Throw Fixes",
+      "url": "http://deadlystream.com/files/file/828-tsl-prestige-class-saving-throw-fixes/",
+      "metadata": {
+        "title": "TSL Prestige Class Saving Throw fixes",
+        "author": "Rovan",
+        "latestVersion": "1.0",
+        "latestVersionReleaseDate": "2016-02-25T19:15:03Z",
+        "originalUploadDate": "2016-02-25T19:15:03Z",
+        "versionHistory": "1.0",
+        "availableDownloads": [
+          {
+            "fileName": "TSL_prestige_save_fixes.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Classic Class Attack Bonus",
+      "url": "https://deadlystream.com/files/file/2812-classic-class-attack-bonus/",
+      "metadata": {
+        "title": "Classic Class Attack Bonus",
+        "author": "Crimson Knight",
+        "latestVersionReleaseDate": "2025-09-25T16:42:00Z",
+        "originalUploadDate": "2025-08-31T00:51:28Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "CK-Classic Class Attack Bonus and Weaker Consulars.zip",
+            "remoteFileId": "79090"
+          },
+          {
+            "fileName": "CK-Classic Class Attack Bonus.zip",
+            "remoteFileId": "79091"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Robes with Shadows for TSL",
+      "url": "https://deadlystream.com/files/file/2075-robes-with-shadows-for-tsl/",
+      "metadata": {
+        "title": "Robes With Shadows For TSL",
+        "author": "PapaZinos",
+        "latestVersion": "1.3.0",
+        "latestVersionReleaseDate": "2024-04-21T02:50:03Z",
+        "originalUploadDate": "2022-05-11T01:40:39Z",
+        "versionHistory": "1.3.0, 1.2.0, 1.1.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Ultimate_Robes_Repair_For_TSL_v1.3.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "K2 Community Patch",
+      "url": "https://deadlystream.com/files/file/1280-kotor-2-community-patch/",
+      "metadata": {
+        "title": "KOTOR 2 Community Patch",
+        "author": "A Future Pilot",
+        "latestVersion": "1.6.3",
+        "latestVersionReleaseDate": "2026-08-26T04:58:03Z",
+        "originalUploadDate": "2018-06-14T21:13:30Z",
+        "versionHistory": "1.6.3, 1.6.1, 1.6, 1.5.2, 1.5.1, 1.5.1, 1.5, 1.4, 1.3, 1.2, 1.1, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "K2CP_v1.6.3.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Remote Tells Influence",
+      "url": "https://www.gamefront.com/games/knights-of-the-old-republic-ii/file/remote-tells-influence"
+    },
+    {
+      "name": "Remote Tells Influence [Patch]",
+      "url": "https://www.dropbox.com/s/af3h6y793f3zjxq/Remote%20Tells%20Influence%20Patch%20for%20TSLRCM.zip?dl=0"
+    },
+    {
+      "name": "Fixed / Better Czerka Salvager",
+      "url": "https://deadlystream.com/files/file/2576-fixed-better-czerka-salvager/",
+      "metadata": {
+        "title": "Fixed / Better Czerka Salvager",
+        "author": "OzilsEyes",
+        "latestVersion": "12/29/2024 09:32 AM",
+        "latestVersionReleaseDate": "2024-12-29T09:32:57Z",
+        "originalUploadDate": "2024-11-03T13:24:28Z",
+        "versionHistory": "12/29/2024 09:32 AM, 11/08/2024 08:40 AM",
+        "availableDownloads": [
+          {
+            "fileName": "Fixed_Czerka_Salvager.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ultimate High Resolution Texture Pack",
+      "url": "https://www.nexusmods.com/kotor2/mods/1100"
+    },
+    {
+      "name": "Ultimate Character Overhaul",
+      "url": "https://www.nexusmods.com/kotor2/mods/1060"
+    },
+    {
+      "name": "Ultimate Nar Shaddaa High Resolution",
+      "url": "https://www.nexusmods.com/kotor2/mods/1101"
+    },
+    {
+      "name": "Ultimate Dantooine High Resolution",
+      "url": "https://www.nexusmods.com/kotor2/mods/1103"
+    },
+    {
+      "name": "Ultimate Dxun High Resolution",
+      "url": "https://www.nexusmods.com/kotor2/mods/1105"
+    },
+    {
+      "name": "Ultimate Dxun High Resolution [Patch]",
+      "url": "https://mega.nz/file/kUZTmT6K#9Ymj028VHivAoY7RaW1mKXu1H28NvYVNfM44p5C-IIM"
+    },
+    {
+      "name": "Ultimate Onderon High Resolution",
+      "url": "https://www.nexusmods.com/kotor2/mods/1102"
+    },
+    {
+      "name": "Ultimate Korriban High Resolution",
+      "url": "https://www.nexusmods.com/kotor2/mods/1104"
+    },
+    {
+      "name": "Ultimate Malachor High Resolution",
+      "url": "https://www.nexusmods.com/kotor2/mods/1106"
+    },
+    {
+      "name": "Korriban Sith Art HD",
+      "url": "https://www.nexusmods.com/kotor/mods/1632"
+    },
+    {
+      "name": "Ritual and Water Textures",
+      "url": "https://deadlystream.com/files/file/2286-freedon-nadds-tomb-ritual-and-water-textures/",
+      "metadata": {
+        "title": "Freedon Nadd's Tomb: Ritual and Water textures",
+        "author": "Nehua",
+        "latestVersion": "1.0.0",
+        "latestVersionReleaseDate": "2023-04-26T16:45:45Z",
+        "originalUploadDate": "2023-04-26T08:39:53Z",
+        "versionHistory": "1.0.0, 1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Freedon Nadd's Tomb ritual and water textures.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PFHC06 Fix",
+      "url": "https://deadlystream.com/files/file/1442-pfhc06-fix/",
+      "metadata": {
+        "title": "PFHC06 Fix",
+        "author": "Ferc Kast",
+        "latestVersionReleaseDate": "2019-02-05T00:43:43Z",
+        "originalUploadDate": "2019-02-05T00:43:43Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "k2-pfhc06-fix.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Droid Special Weapons Fix",
+      "url": "https://deadlystream.com/files/file/1860-droid-special-weapons-fix-for-tsl-v10/",
+      "metadata": {
+        "title": "Droid special weapons fix for TSL",
+        "author": "LoneWanderer",
+        "latestVersion": "2.0.0",
+        "latestVersionReleaseDate": "2022-10-22T10:53:11Z",
+        "originalUploadDate": "2021-03-30T17:46:59Z",
+        "versionHistory": "2.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Droid special weapons fix for TSL v1.0.7z",
+            "remoteFileId": "60511"
+          },
+          {
+            "fileName": "Droid special weapons fix for TSL v2.0.7z",
+            "remoteFileId": "60512"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Honest Merchant",
+      "url": "https://deadlystream.com/files/file/1904-honest-merchant-tslrcm/",
+      "metadata": {
+        "title": "Honest Merchant (TSLRCM)",
+        "author": "TK-664",
+        "latestVersionReleaseDate": "2021-06-13T19:39:41Z",
+        "originalUploadDate": "2021-06-13T19:39:41Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "dendis_merchant_mod.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "JC's Minor Fixes",
+      "url": "https://deadlystream.com/files/file/1215-jcs-minor-fixes-for-k2/",
+      "metadata": {
+        "title": "JC's Minor Fixes for K2",
+        "author": "JCarter426",
+        "latestVersion": "1.5",
+        "latestVersionReleaseDate": "2018-06-18T22:57:53Z",
+        "originalUploadDate": "2018-03-04T08:03:58Z",
+        "versionHistory": "1.5, 1.4, 1.2, 1.3, 1.1, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "JC's Minor Fixes for K2 v1.5.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Maintenance Officer Realistic Reskin",
+      "url": "https://deadlystream.com/files/file/165-maintenance-officer-realistic-reskin/",
+      "metadata": {
+        "title": "Maintenance Officer Realistic Reskin",
+        "author": "Malkior",
+        "latestVersion": "1.1",
+        "latestVersionReleaseDate": "2021-03-03T03:04:02Z",
+        "originalUploadDate": "2012-06-02T22:06:45Z",
+        "versionHistory": "1.1, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "Maintenance_Officer_New_Dead_Ver1.2.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PLC_Sign",
+      "url": "https://deadlystream.com/files/file/2442-plc_sign/",
+      "metadata": {
+        "title": "PLC_Sign",
+        "author": "Dark Hope",
+        "latestVersionReleaseDate": "2024-03-15T13:17:03Z",
+        "originalUploadDate": "2024-03-15T13:17:03Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "PLC_Sign.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kiosk HD",
+      "url": "https://deadlystream.com/files/file/2277-kiosk-hd/",
+      "metadata": {
+        "title": "Kiosk HD",
+        "author": "Dark Hope",
+        "latestVersion": "1.0.0",
+        "latestVersionReleaseDate": "2024-03-15T12:54:04Z",
+        "originalUploadDate": "2023-03-30T18:06:01Z",
+        "versionHistory": "1.0.0, 1.0.0, 1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "KioskHD.rar",
+            "remoteFileId": "70858"
+          },
+          {
+            "fileName": "Kiosk HD 15.03.2024.rar",
+            "remoteFileId": "70859"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kiosk HD [Patch]",
+      "url": "https://deadlystream.com/files/file/2910-kiosk-model-fix-for-k2/",
+      "metadata": {
+        "title": "Kiosk Model Fix for K2",
+        "author": "Snigaroo",
+        "latestVersionReleaseDate": "2026-01-31T10:29:50Z",
+        "originalUploadDate": "2026-01-13T01:20:02Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "Kiosk Model Fix K2.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PLC_Desk",
+      "url": "https://deadlystream.com/files/file/2441-plc_desk/",
+      "metadata": {
+        "title": "PLC_Desk",
+        "author": "Dark Hope",
+        "latestVersionReleaseDate": "2024-03-15T13:06:45Z",
+        "originalUploadDate": "2024-03-15T13:06:45Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "PLC_Desk.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hi-Res Beam Effects",
+      "url": "http://deadlystream.com/files/file/221-hi-res-beam-effects/",
+      "metadata": {
+        "title": "Hi-Res Beam Effects",
+        "author": "InSidious",
+        "latestVersion": "2.0",
+        "latestVersionReleaseDate": "2019-08-14T22:20:58Z",
+        "originalUploadDate": "2012-09-19T22:12:43Z",
+        "versionHistory": "2.0, 2.0",
+        "availableDownloads": [
+          {
+            "fileName": "DI_HRBM_2.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fire And Ice HD",
+      "url": "http://deadlystream.com/files/file/454-fire-and-ice-hd-whee/",
+      "metadata": {
+        "title": "Fire and Ice HD, Whee!",
+        "author": "Cinder Skye",
+        "latestVersion": "v2.1",
+        "latestVersionReleaseDate": "2019-08-14T22:28:22Z",
+        "originalUploadDate": "2014-09-08T11:49:39Z",
+        "versionHistory": "v2.1, v2, 1",
+        "availableDownloads": [
+          {
+            "fileName": "FireandIceHDWhee.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Animated Energy Shields",
+      "url": "https://deadlystream.com/files/file/2193-animated-energy-shields/",
+      "metadata": {
+        "title": "Animated energy shields",
+        "author": "Dark Hope",
+        "latestVersion": "1.0.0",
+        "latestVersionReleaseDate": "2022-11-05T09:30:01Z",
+        "originalUploadDate": "2022-11-04T16:36:31Z",
+        "versionHistory": "1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Animated energy shields.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Blaster Visual Effects",
+      "url": "https://deadlystream.com/files/file/1272-jcs-blaster-visual-effects-for-k2/",
+      "metadata": {
+        "title": "JC's Blaster Visual Effects for K2",
+        "author": "JCarter426",
+        "latestVersionReleaseDate": "2018-06-06T01:34:13Z",
+        "originalUploadDate": "2018-06-04T05:43:06Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "JC's Blaster Visual Effects for K2.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TSL Head Model Fixes",
+      "url": "http://deadlystream.com/files/file/489-tsl-head-model-fixes/",
+      "metadata": {
+        "title": "TSL Head Model Fixes",
+        "author": "redrob41",
+        "latestVersion": "06/09/2018 08:36 AM",
+        "latestVersionReleaseDate": "2018-06-09T08:36:27Z",
+        "originalUploadDate": "2014-11-03T04:09:28Z",
+        "versionHistory": "06/09/2018 08:36 AM, 08/29/2015 09:57 AM",
+        "availableDownloads": [
+          {
+            "fileName": "TSL_Head_Model_Fixes_by_RedRob41.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "New Holocron Textures",
+      "url": "http://deadlystream.com/files/file/283-new-texture-of-holocrons-in-the-telos-secret-academy/",
+      "metadata": {
+        "title": "New Texture of Holocrons in the Telos Secret Academy",
+        "author": "Sith Holocron",
+        "latestVersion": "1.2",
+        "latestVersionReleaseDate": "2021-02-04T03:16:08Z",
+        "originalUploadDate": "2013-01-19T20:20:33Z",
+        "versionHistory": "1.2, 1.2",
+        "availableDownloads": [
+          {
+            "fileName": "AtrisHolocron.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Thigh-High Boots for Twi'lek",
+      "url": "http://deadlystream.com/files/file/1088-tsl-thigh-high-boots-for-female-twilek-body-modders-resource/",
+      "metadata": {
+        "title": "TSL Thigh-High Boots For Female Twi'lek Body (Modder's Resource)",
+        "author": "DarthParametric",
+        "latestVersionReleaseDate": "2023-07-02T06:13:11Z",
+        "originalUploadDate": "2017-05-19T10:31:37Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "[TSL]_Thigh-High_Boots_For_Twilek_Body_MODDERS_RESOURCE.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Better Twi'lek Heads",
+      "url": "https://deadlystream.com/files/file/1432-tsl-better-male-twilek-heads/",
+      "metadata": {
+        "title": "TSL Better Male Twi'lek Heads",
+        "author": "Ashton Scorpius",
+        "latestVersion": "1.3.2",
+        "latestVersionReleaseDate": "2024-04-08T04:16:28Z",
+        "originalUploadDate": "2019-01-19T23:17:14Z",
+        "versionHistory": "1.3.2, 1.3.1, 1.3.0, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "TSL Twi'lek Heads v1.3.2.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TSL Twi'lek Male NPC Diversity",
+      "url": "https://deadlystream.com/files/file/2242-tsl-twilek-male-npc-diversity/",
+      "metadata": {
+        "title": "TSL Twi'lek Male NPC Diversity",
+        "author": "Leilukin",
+        "latestVersion": "1.1.2",
+        "latestVersionReleaseDate": "2026-08-08T04:58:04Z",
+        "originalUploadDate": "2023-01-24T13:08:59Z",
+        "versionHistory": "1.1.2, 1.1.1, 1.1, 1.0.1, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "TSL Twi'lek Male NPC Diversity.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dahnis Unique Look",
+      "url": "https://deadlystream.com/files/file/2198-dahnis-unique-look/",
+      "metadata": {
+        "title": "Dahnis Unique Look",
+        "author": "Leilukin",
+        "latestVersion": "1.1.2",
+        "latestVersionReleaseDate": "2026-06-21T02:57:55Z",
+        "originalUploadDate": "2022-11-11T23:10:47Z",
+        "versionHistory": "1.1.2, 1.1.1, 1.1.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Dahnis Unique Look.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Darth Malak's Armor",
+      "url": "http://www.nexusmods.com/kotor2/mods/9/?"
+    },
+    {
+      "name": "Supermodel Fix",
+      "url": "https://deadlystream.com/files/file/1141-jcs-supermodel-fix-for-k2/",
+      "metadata": {
+        "title": "JC's Supermodel Fix for K2",
+        "author": "JCarter426",
+        "latestVersion": "1.6",
+        "latestVersionReleaseDate": "2019-04-19T09:31:25Z",
+        "originalUploadDate": "2017-08-26T14:28:06Z",
+        "versionHistory": "1.6, 1.5, 1.4, 1.3, 1.1, 1.2, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "JC's Supermodel Fix for K2 v1.6.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mandalorian Worn-Out Armor",
+      "url": "https://mega.nz/#!1A4RCLha!Ro2GNVUPRfgot-woqh80jVaukixr-cnUmTdakuc0Ca4"
+    },
+    {
+      "name": "HD NPC Portraits",
+      "url": "https://deadlystream.com/files/file/1770-hd-npc-portraits/",
+      "metadata": {
+        "title": "HD NPC Portraits",
+        "author": "ndix UR",
+        "latestVersionReleaseDate": "2020-10-04T19:32:05Z",
+        "originalUploadDate": "2020-10-04T19:32:05Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "hd_npc_portraits_tsl-1.1.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HD PC Portraits",
+      "url": "https://deadlystream.com/files/file/1769-hd-pc-portraits/",
+      "metadata": {
+        "title": "HD PC Portraits",
+        "author": "ndix UR",
+        "latestVersionReleaseDate": "2020-09-30T06:02:11Z",
+        "originalUploadDate": "2020-09-30T06:02:11Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "hd_pc_portraits_tsl-1.1.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Stylized Portraits TSL",
+      "url": "https://deadlystream.com/files/file/1977-stylized-portraits-tsl-created-by-tinman888/",
+      "metadata": {
+        "title": "Stylized Portraits TSL Created by Tinman888",
+        "author": "Sdub",
+        "latestVersion": "1.3",
+        "latestVersionReleaseDate": "2022-04-12T01:44:06Z",
+        "originalUploadDate": "2022-01-16T02:43:39Z",
+        "versionHistory": "1.3, 1.0.2, 1.0.1, 1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Stylized Portraits TSL 1.3.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PFHC03 Restoration",
+      "url": "https://deadlystream.com/files/file/2003-effixians-pfhc03-restoration/",
+      "metadata": {
+        "title": "Effixian's PFHC03 Restoration",
+        "author": "Effix",
+        "latestVersion": "3.0.0",
+        "latestVersionReleaseDate": "2023-08-01T12:52:39Z",
+        "originalUploadDate": "2022-02-20T19:36:53Z",
+        "versionHistory": "3.0.0, 2.0.0, 1.0.0, 1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Effixians_PFHC03_Restoration.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "4k Atton",
+      "url": "http://deadlystream.com/files/file/441-4k-atton/",
+      "metadata": {
+        "title": "4k Atton",
+        "author": "Constar",
+        "latestVersion": "1.01",
+        "latestVersionReleaseDate": "2022-11-21T23:32:36Z",
+        "originalUploadDate": "2014-07-05T22:01:13Z",
+        "versionHistory": "1.01, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "4k atton.rar",
+            "remoteFileId": "61064"
+          },
+          {
+            "fileName": "4k atton [tpc version].7z",
+            "remoteFileId": "61065"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Atton Rand with Scruff",
+      "url": "http://deadlystream.com/files/file/528-atton-rand-with-scruff/",
+      "metadata": {
+        "title": "Atton Rand with scruff",
+        "author": "felixfelicitas",
+        "latestVersionReleaseDate": "2015-03-12T20:50:45Z",
+        "originalUploadDate": "2015-03-12T20:50:45Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "scruffyatton.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rounder G0-T0",
+      "url": "https://www.nexusmods.com/kotor2/mods/1296"
+    },
+    {
+      "name": "Dark Harbinger",
+      "url": "https://mega.nz/#!kARxFSbS!wVaTMHT3LZ1Z2nFzjCiattphsim1p-0ReALIcb9h8pQ"
+    },
+    {
+      "name": "HD Vrook",
+      "url": "https://deadlystream.com/files/file/1504-vrook-hd-international-global-mod/",
+      "metadata": {
+        "title": "Vrook HD International Global mod",
+        "author": "Dark Hope",
+        "latestVersionReleaseDate": "2021-02-26T16:22:13Z",
+        "originalUploadDate": "2019-09-26T10:00:46Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "N_VrookH.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HD Darth Nihilus",
+      "url": "http://deadlystream.com/files/file/367-darth-sapiens-presents-hd-darth-nihilus/",
+      "metadata": {
+        "title": "Darth Sapiens Presents: HD Darth Nihilus",
+        "author": "Darth_Sapiens",
+        "latestVersion": "1.00 B",
+        "latestVersionReleaseDate": "2025-02-18T05:36:01Z",
+        "originalUploadDate": "2013-12-13T04:17:53Z",
+        "versionHistory": "1.00 B, 1.00",
+        "availableDownloads": [
+          {
+            "fileName": "Darth sapiens Nihilus.rar",
+            "remoteFileId": "75533"
+          },
+          {
+            "fileName": "Sapiens Nihilus TPC.7z",
+            "remoteFileId": "75534"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Darth Sion Remake",
+      "url": "https://deadlystream.com/files/file/1244-darth-sion-remake/",
+      "metadata": {
+        "title": "Darth Sion remake",
+        "author": "FF97",
+        "latestVersionReleaseDate": "2018-04-06T00:51:50Z",
+        "originalUploadDate": "2018-04-06T00:51:50Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "bettersion.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Detran's Revan",
+      "url": "https://deadlystream.com/files/file/2350-detrans-darth-revan/#",
+      "metadata": {
+        "title": "Detran's Darth Revan",
+        "author": "detran",
+        "latestVersionReleaseDate": "2023-08-02T13:06:03Z",
+        "originalUploadDate": "2023-08-02T13:06:03Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "Detran's Darth Revan.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lore-Friendly Mandalore Mask",
+      "url": "https://deadlystream.com/files/file/1848-expanded-lore-friendly-mandalores-mask-with-matching-armor-and-icons-upscaled-high-quality-textures/",
+      "metadata": {
+        "title": "Expanded lore friendly Mandalore's mask with matching armor and icons (upscaled high quality textures)",
+        "author": "constantinople33",
+        "latestVersionReleaseDate": "2021-03-03T01:23:33Z",
+        "originalUploadDate": "2021-03-03T01:23:33Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "Expanded lore friendly mandalores mask HD 6 versions.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Visas Reduced Model Clipping",
+      "url": "https://deadlystream.com/files/file/2299-visas-reduced-model-clipping/",
+      "metadata": {
+        "title": "Visas Reduced Model Clipping",
+        "author": "feeling",
+        "latestVersion": "1.0.1",
+        "latestVersionReleaseDate": "2023-05-15T03:56:26Z",
+        "originalUploadDate": "2023-05-13T06:46:09Z",
+        "versionHistory": "1.0.1, 1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Visas Less Clipping.7z",
+            "remoteFileId": "63946"
+          },
+          {
+            "fileName": "Visas Less Clipping Hipoly.7z",
+            "remoteFileId": "63947"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HD Visas Marr",
+      "url": "http://deadlystream.com/files/file/519-darth-sapiens-presents-hd-2k-visas-marr/",
+      "metadata": {
+        "title": "Darth Sapiens presents: HD 2K Visas Marr",
+        "author": "Darth_Sapiens",
+        "latestVersionReleaseDate": "2015-02-25T05:54:07Z",
+        "originalUploadDate": "2015-02-25T05:22:59Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "Darth sapiens presents HD 2K Visas Marr.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mira Unpoofed",
+      "url": "https://deadlystream.com/files/file/1733-tsl-mira-unpoofed/",
+      "metadata": {
+        "title": "TSL Mira Unpoofed",
+        "author": "Ashton Scorpius",
+        "latestVersion": "1.0.3",
+        "latestVersionReleaseDate": "2024-04-08T05:55:09Z",
+        "originalUploadDate": "2020-06-15T22:25:45Z",
+        "versionHistory": "1.0.3, 1.0.2",
+        "availableDownloads": [
+          {
+            "fileName": "TSL Mira Unpoofed v1.0.3.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "T3M4 HD 2K",
+      "url": "http://deadlystream.com/files/file/514-darth-sapiens-presents-t3m4-hd-2k/",
+      "metadata": {
+        "title": "Darth Sapien's Presents T3M4 HD 2k",
+        "author": "Darth_Sapiens",
+        "latestVersionReleaseDate": "2015-02-21T07:24:50Z",
+        "originalUploadDate": "2015-02-21T07:24:50Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "Darth Sapien&#39;s Presents T3M4 HD.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Refurbished Astromech Droids",
+      "url": "http://deadlystream.com/files/file/971-refurbished-astromech-droids/",
+      "metadata": {
+        "title": "Refurbished Astromech Droids",
+        "author": "Sith Holocron",
+        "latestVersion": "1.1",
+        "latestVersionReleaseDate": "2024-11-02T01:18:56Z",
+        "originalUploadDate": "2016-12-25T04:44:22Z",
+        "versionHistory": "1.1, 1.1",
+        "availableDownloads": [
+          {
+            "fileName": "SH_Refurbished Astromech Droids.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "War Droid Mk.1",
+      "url": "https://deadlystream.com/files/file/2188-war-droid-mark-i-hd/",
+      "metadata": {
+        "title": "War droid Mark I HD",
+        "author": "Dark Hope",
+        "latestVersionReleaseDate": "2022-10-30T15:17:01Z",
+        "originalUploadDate": "2022-10-30T15:17:01Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "C_DrdWar.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Duros HD",
+      "url": "https://deadlystream.com/files/file/2252-duros-hd/",
+      "metadata": {
+        "title": "Duros HD",
+        "author": "Dark Hope",
+        "latestVersionReleaseDate": "2023-02-18T11:42:33Z",
+        "originalUploadDate": "2023-02-18T11:42:33Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "Duros HD.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Duros HD [Patch]",
+      "url": "https://mega.nz/file/RBBUTKoB#FTWDzUf8SwWBoaGgtAGXfUHjOP_BZxfFPKASf8hlC1M"
+    },
+    {
+      "name": "Ithorians HD",
+      "url": "https://deadlystream.com/files/file/2382-ithorian-hd/",
+      "metadata": {
+        "title": "Ithorian HD",
+        "author": "Dark Hope",
+        "latestVersion": "1.0.0",
+        "latestVersionReleaseDate": "2025-12-15T12:21:33Z",
+        "originalUploadDate": "2023-12-03T12:22:02Z",
+        "versionHistory": "1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Ithorian HD.rar",
+            "remoteFileId": "84585"
+          },
+          {
+            "fileName": "Ithorian HD (Vurt's KotOR Visual Resurgence).rar",
+            "remoteFileId": "84586"
+          }
+        ]
+      }
+    },
+    {
+      "name": "N_oldAMH01 HD",
+      "url": "https://deadlystream.com/files/file/2806-n_oldamh01-hd/",
+      "metadata": {
+        "title": "N_oldAMH01 HD",
+        "author": "Dark Hope",
+        "latestVersionReleaseDate": "2025-08-14T19:41:40Z",
+        "originalUploadDate": "2025-08-14T19:41:40Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "N_oldAMH01.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Canonical Jedi Exile",
+      "url": "http://deadlystream.com/files/file/170-canonical-jedi-exile/",
+      "metadata": {
+        "title": "Canonical Jedi Exile",
+        "author": "michaelfung2000",
+        "latestVersion": "1.2",
+        "latestVersionReleaseDate": "2026-05-01T14:44:21Z",
+        "originalUploadDate": "2012-06-13T05:33:52Z",
+        "versionHistory": "1.2, 1.2",
+        "availableDownloads": [
+          {
+            "fileName": "Canonical Jedi Exile 1.2.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "JC's Lightsaber Visual Effects",
+      "url": "https://deadlystream.com/files/file/1317-jcs-lightsaber-visual-effects-for-k2/",
+      "metadata": {
+        "title": "JC's Lightsaber Visual Effects for K2",
+        "author": "JCarter426",
+        "latestVersion": "1.5",
+        "latestVersionReleaseDate": "2020-11-26T14:29:50Z",
+        "originalUploadDate": "2018-07-14T21:53:40Z",
+        "versionHistory": "1.5, 1.4, 1.3, 1.2, 1.1, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "JC's Lightsaber Visual Effects for K2 v1.5.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Enhanced Lightsaber Hilt Variety",
+      "url": "https://deadlystream.com/files/file/2794-enhanced-lightsaber-hilt-variety/",
+      "metadata": {
+        "title": "Lightsaber Hilt Variety - TSL",
+        "author": "J",
+        "latestVersion": "2.0",
+        "latestVersionReleaseDate": "2026-01-18T02:16:11Z",
+        "originalUploadDate": "2025-08-01T22:25:13Z",
+        "versionHistory": "2.0, 1.2.1, 1.1.0, 1.1.0, 1.1.0, 1.1.0, 1.1.0, 1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "lightsaber_hilt variety_v2.0.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "KOTOR 2 Random Panels",
+      "url": "https://deadlystream.com/files/file/2588-kotor2-random-panels/",
+      "metadata": {
+        "title": "KotOR2 Random Panels",
+        "author": "Sith Holocron",
+        "latestVersion": "1.2",
+        "latestVersionReleaseDate": "2025-09-14T04:50:30Z",
+        "originalUploadDate": "2024-11-15T07:25:27Z",
+        "versionHistory": "1.2, 1.2, 1.2, 1.1, 1.1, 1.0.1, 1.0.1, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "SH_TSL_RandomPanels.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Neglected Computer Panel",
+      "url": "https://deadlystream.com/files/file/2063-neglected-computer-panel/",
+      "metadata": {
+        "title": "Neglected Computer Panel",
+        "author": "ScrierOne",
+        "latestVersion": "1.1.0",
+        "latestVersionReleaseDate": "2022-05-01T22:39:47Z",
+        "originalUploadDate": "2022-04-30T12:13:42Z",
+        "versionHistory": "1.1.0, 1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "HD Computer Panel.7z",
+            "remoteFileId": "57235"
+          },
+          {
+            "fileName": "HD Computer Panel, Damaged Version For Malachor.7z",
+            "remoteFileId": "57236"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Improved Peragus Asteroids",
+      "url": "http://deadlystream.com/files/file/321-improved-peragus-asteroid-fields/",
+      "metadata": {
+        "title": "Improved Peragus Asteroid Fields",
+        "author": "Vasilii Zaytsev",
+        "latestVersion": "1.2",
+        "latestVersionReleaseDate": "2019-08-14T22:05:53Z",
+        "originalUploadDate": "2013-08-05T18:07:01Z",
+        "versionHistory": "1.2, 1.2, 1.2",
+        "availableDownloads": [
+          {
+            "fileName": "Improved Peragus Asteroid Fields v1.2.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Swoop Monitor Replacement Pack",
+      "url": "https://deadlystream.com/files/file/1252-tsl-swoop-monitors-replacement-pack/",
+      "metadata": {
+        "title": "[TSL] Swoop Monitors Replacement Pack",
+        "author": "Sith Holocron",
+        "latestVersionReleaseDate": "2024-11-02T01:02:31Z",
+        "originalUploadDate": "2018-04-17T09:36:45Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "SH_Swoop Monitors.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Terminal Texture",
+      "url": "https://deadlystream.com/files/file/1925-terminal-texture/",
+      "metadata": {
+        "title": "Terminal texture",
+        "author": "Dark Hope",
+        "latestVersion": "1.0.0",
+        "latestVersionReleaseDate": "2026-01-30T21:57:33Z",
+        "originalUploadDate": "2021-09-26T11:53:56Z",
+        "versionHistory": "1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "PLC_CompPnl.rar",
+            "remoteFileId": "85281"
+          },
+          {
+            "fileName": "PLC_CompPnl(Vurt's KotOR Visual Resurgence) 2026.rar",
+            "remoteFileId": "85282"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Animated Computer Panel",
+      "url": "https://deadlystream.com/files/file/1385-tsl-animated-computer-panel/",
+      "metadata": {
+        "title": "[TSL] Animated Computer Panel",
+        "author": "ebmar",
+        "latestVersion": "2.0.0",
+        "latestVersionReleaseDate": "2020-09-23T19:47:51Z",
+        "originalUploadDate": "2018-10-19T22:08:48Z",
+        "versionHistory": "2.0.0, 1.1.0",
+        "availableDownloads": [
+          {
+            "fileName": "[TSL]_Animated_Computer_Panel_v2.0.0.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RepTab HD",
+      "url": "https://deadlystream.com/files/file/2222-reptab-hd/",
+      "metadata": {
+        "title": "RepTab HD",
+        "author": "Dark Hope",
+        "latestVersionReleaseDate": "2022-12-18T18:56:23Z",
+        "originalUploadDate": "2022-12-18T18:56:23Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "RepTab HD.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TSL Backdrop Improvements",
+      "url": "http://deadlystream.com/files/file/949-tsl-backdrop-improvements/",
+      "metadata": {
+        "title": "TSL Backdrop Improvements",
+        "author": "Kexikus",
+        "latestVersion": "1.4",
+        "latestVersionReleaseDate": "2020-12-26T10:41:57Z",
+        "originalUploadDate": "2016-11-29T16:27:30Z",
+        "versionHistory": "1.4, 1.3, 1.2, 1.1, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "TSL_Backdrop_Improvements_1_4.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "JC's Citadel Station Backdrop",
+      "url": "https://deadlystream.com/files/file/1217-jcs-citadel-station-backdrop/",
+      "metadata": {
+        "title": "JC's Citadel Station Backdrop",
+        "author": "JCarter426",
+        "latestVersion": "2.0.0",
+        "latestVersionReleaseDate": "2026-06-04T00:49:15Z",
+        "originalUploadDate": "2018-03-04T09:22:50Z",
+        "versionHistory": "2.0.0, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "KOTOR2-Citadel-Station-Backdrop_v2.0.0_4k.zip",
+            "remoteFileId": "87974"
+          },
+          {
+            "fileName": "KOTOR2-Citadel-Station-Backdrop_v2.0.0_2k.zip",
+            "remoteFileId": "87975"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HQ Skyboxes II",
+      "url": "https://deadlystream.com/files/file/1793-high-quality-skyboxes-ii/",
+      "metadata": {
+        "title": "High Quality Skyboxes II",
+        "author": "Kexikus",
+        "latestVersion": "1.2.1",
+        "latestVersionReleaseDate": "2026-08-05T23:45:20Z",
+        "originalUploadDate": "2020-12-05T14:39:15Z",
+        "versionHistory": "1.2.1, 1.2, 1.1.1, 1.1, 1.0.1, 1.0, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "HQSkyboxesII_TSL_M478EP.7z",
+            "remoteFileId": "91247"
+          },
+          {
+            "fileName": "HQSkyboxesII_TSL_JediTemple.7z",
+            "remoteFileId": "91248"
+          },
+          {
+            "fileName": "HQSkyboxesII_TSL_M478EP_1k.7z",
+            "remoteFileId": "91249"
+          },
+          {
+            "fileName": "HQSkyboxesII_TSL.7z",
+            "remoteFileId": "91250"
+          },
+          {
+            "fileName": "HQSkyboxesII_TSL_1k.7z",
+            "remoteFileId": "91251"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ebon Hawk Cockpit Upgrade (LEH_Scre01)",
+      "url": "https://deadlystream.com/files/file/2258-ebon-hawk-cockpit-upgrade-leh_scre01-more-subtle-version/",
+      "metadata": {
+        "title": "Ebon Hawk Cockpit Upgrade (LEH_Scre01) [More Subtle Version]",
+        "author": "Sith Holocron",
+        "latestVersionReleaseDate": "2024-11-02T01:11:12Z",
+        "originalUploadDate": "2023-02-25T19:47:42Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "SH_EHCockpitUpgrade_LEH_Scre01_MS.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ebon Hawk Cockpit Upgrade (LEH_Scre02)",
+      "url": "https://deadlystream.com/files/file/2247-ebon-hawk-cockpit-upgrade-leh_scre02/",
+      "metadata": {
+        "title": "Ebon Hawk Cockpit Upgrade [LEH_Scre02]",
+        "author": "Sith Holocron",
+        "latestVersion": "1.0.0",
+        "latestVersionReleaseDate": "2024-11-02T01:12:58Z",
+        "originalUploadDate": "2023-02-04T06:42:21Z",
+        "versionHistory": "1.0.0, 1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "SH_EHCockpitUpgrade_LEH_Scre02.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Spark Effect - Ebon Hawk",
+      "url": "https://deadlystream.com/files/file/2314-spark-effect-ebon-hawk/",
+      "metadata": {
+        "title": "Spark Effect - Ebon Hawk",
+        "author": "PapaZinos",
+        "latestVersionReleaseDate": "2023-06-07T02:00:19Z",
+        "originalUploadDate": "2023-06-07T01:53:44Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "Spark_Effect_v1.0.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Transparent Cockpit Windows TSL",
+      "url": "https://deadlystream.com/files/file/2355-transparent-cockpit-windows-for-tsl/",
+      "metadata": {
+        "title": "Transparent Cockpit Windows for TSL",
+        "author": "WildKarrde",
+        "latestVersion": "1.1.2",
+        "latestVersionReleaseDate": "2026-05-05T04:17:16Z",
+        "originalUploadDate": "2023-08-14T03:57:42Z",
+        "versionHistory": "1.1.2, 1.1.1, 1.1, 1.0, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "TSL Transparent Cockpit Windows v1_1_2 - Reskin Friendly.7z",
+            "remoteFileId": "86572"
+          },
+          {
+            "fileName": "TSL Transparent Cockpit Windows v1_1_2 - Enhanced Reflections.7z",
+            "remoteFileId": "86573"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HD Cockpit Skyboxes",
+      "url": "http://deadlystream.com/files/file/931-hd-cockpit-skyboxes/",
+      "metadata": {
+        "title": "TSL HD Cockpit Skyboxes",
+        "author": "tjsase",
+        "latestVersion": "3.1",
+        "latestVersionReleaseDate": "2019-11-15T02:36:58Z",
+        "originalUploadDate": "2016-10-28T16:20:25Z",
+        "versionHistory": "3.1, 2.0, 1",
+        "availableDownloads": [
+          {
+            "fileName": "TSL HD Cockpit Skyboxes - Medium Resolution.zip",
+            "remoteFileId": "44015"
+          },
+          {
+            "fileName": "TSL HD Cockpit Skyboxes - Medium Resolution TPC.zip",
+            "remoteFileId": "44016"
+          },
+          {
+            "fileName": "TSL HD Cockpit Skyboxes - Low Resolution.zip",
+            "remoteFileId": "44017"
+          },
+          {
+            "fileName": "TSL HD Cockpit Skyboxes - Low Resolution TPC.zip",
+            "remoteFileId": "44018"
+          },
+          {
+            "fileName": "TSL HD Cockpit Skyboxes - High Resolution.zip",
+            "remoteFileId": "44019"
+          },
+          {
+            "fileName": "TSL HD Cockpit Skyboxes - High Resolution TPC.zip",
+            "remoteFileId": "44020"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FTL Hyperspace Loop",
+      "url": "https://www.nexusmods.com/kotor2/mods/1161?tab=description"
+    },
+    {
+      "name": "Aleema Keto's Robe Description Correction",
+      "url": "http://deadlystream.com/files/file/842-aleema-ketos-robe-description-correction/",
+      "metadata": {
+        "title": "Aleema Keto's Robe Description Correction",
+        "author": "milestails",
+        "latestVersion": "1.0",
+        "latestVersionReleaseDate": "2016-03-25T19:01:13Z",
+        "originalUploadDate": "2016-03-21T05:07:39Z",
+        "versionHistory": "1.0, 1.0, 03/21/2016 01:51 PM",
+        "availableDownloads": [
+          {
+            "fileName": "aleema_ketos_robe_description_correction.zip",
+            "remoteFileId": "19298"
+          },
+          {
+            "fileName": "aleema_ketos_robe_description_correction.zip",
+            "remoteFileId": "19299"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Vaklu Short-Term Memory Fix",
+      "url": "https://deadlystream.com/files/file/2654-vaklu-short-term-memory-fix/",
+      "metadata": {
+        "title": "Vaklu Short Term Memory Fix",
+        "author": "SuperChameau",
+        "latestVersion": "1.4",
+        "latestVersionReleaseDate": "2026-06-30T18:59:48Z",
+        "originalUploadDate": "2025-02-01T17:40:21Z",
+        "versionHistory": "1.4, 1.3, 1.2, 1.1.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "VSTMF1.4.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Onderon News Make Sense",
+      "url": "https://deadlystream.com/files/file/2655-onderon-news-make-sense/",
+      "metadata": {
+        "title": "Onderon news make sense",
+        "author": "SuperChameau",
+        "latestVersion": "1.0.0",
+        "latestVersionReleaseDate": "2025-02-07T20:17:40Z",
+        "originalUploadDate": "2025-02-02T13:10:55Z",
+        "versionHistory": "1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Onderon news make sense v1.1.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ebon Hawk Downloadable Map",
+      "url": "https://deadlystream.com/files/file/1406-tsl-ebon-hawk-downloadable-map/",
+      "metadata": {
+        "title": "TSL Ebon Hawk Downloadable Map",
+        "author": "Ashton Scorpius",
+        "latestVersion": "1.2.3",
+        "latestVersionReleaseDate": "2024-04-08T07:51:16Z",
+        "originalUploadDate": "2018-11-20T02:45:41Z",
+        "versionHistory": "1.2.3, 1.2.2, 1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "TSL Ebon Hawk Map v1.2.3.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kinrath Egg Bash Crystal Drop Fix",
+      "url": "http://deadlystream.com/files/file/167-kinrath-egg-bash-crystal-drop/",
+      "metadata": {
+        "title": "Kinrath Egg Bash Crystal Drop",
+        "author": "Hassat Hunter",
+        "latestVersionReleaseDate": "2012-06-05T10:54:03Z",
+        "originalUploadDate": "2012-06-05T10:54:03Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "Kinrath Egg Bash Crystal Drop V0.9.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Thorium Charge Mod",
+      "url": "http://deadlystream.com/files/file/147-thorium-charge-mod/",
+      "metadata": {
+        "title": "Thorium charge mod",
+        "author": "darth_gil",
+        "latestVersionReleaseDate": "2012-04-07T11:24:56Z",
+        "originalUploadDate": "2012-04-07T11:24:56Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "thorium_charge_mod.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kill the Ithorian",
+      "url": "http://deadlystream.com/files/file/10-kill-the-ithorian/",
+      "metadata": {
+        "title": "Kill The Ithorian",
+        "author": "Markus Ramikin",
+        "latestVersion": "1.1",
+        "latestVersionReleaseDate": "2015-08-01T11:49:47Z",
+        "originalUploadDate": "2010-12-26T10:55:07Z",
+        "versionHistory": "1.1, 1.1",
+        "availableDownloads": [
+          {
+            "fileName": "Kill The Ithorian 1.1.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Red Floating Lightsabers",
+      "url": "https://deadlystream.com/files/file/2635-red-floating-lightsabers/",
+      "metadata": {
+        "title": "Red floating lightsabers",
+        "author": "Crimson Knight",
+        "latestVersionReleaseDate": "2025-01-08T01:30:29Z",
+        "originalUploadDate": "2025-01-08T00:03:38Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "CK-Red floating lightsabers.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Choose Mira or Hanharr",
+      "url": "http://deadlystream.com/files/file/108-choose-mira-or-hanharr/",
+      "metadata": {
+        "title": "Choose Mira or Hanharr",
+        "author": "Hassat Hunter",
+        "latestVersionReleaseDate": "2011-08-10T18:58:13Z",
+        "originalUploadDate": "2011-08-10T18:58:13Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "Choose Mira or Hanharr.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kreia's Fall Ingame Cutscene",
+      "url": "https://deadlystream.com/files/file/1228-kreias-fall-cutscene-in-game/",
+      "metadata": {
+        "title": "Kreia's Fall cutscene (in-game)",
+        "author": "danil-ch",
+        "latestVersion": "1.2",
+        "latestVersionReleaseDate": "2021-12-04T08:01:29Z",
+        "originalUploadDate": "2018-03-19T04:54:48Z",
+        "versionHistory": "1.2, 1.1, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "Kreia_Fall_In-game_1.2.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PartySwap",
+      "url": "https://deadlystream.com/files/file/544-partyswap/",
+      "metadata": {
+        "title": "PartySwap",
+        "author": "Leilukin",
+        "latestVersion": "1.5",
+        "latestVersionReleaseDate": "2026-07-22T11:04:17Z",
+        "originalUploadDate": "2015-05-20T18:38:05Z",
+        "versionHistory": "1.5, 1.4.3, 1.4.2, 1.4.1, 1.4, 1.3.4, 1.3.3, 1.3.3, 1.3.3, 1.3.3, 1.3.2, 1.3.1b, 1.3.1b, 1.3.1a, 1.3.1, 1.3.1, 1.3",
+        "availableDownloads": [
+          {
+            "fileName": "PartySwap 1.5.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Extended Enclave",
+      "url": "http://deadlystream.com/files/file/428-extended-enclave-tslrcm-add-on/",
+      "metadata": {
+        "title": "Extended Enclave (TSLRCM add-on)",
+        "author": "danil-ch",
+        "latestVersion": "2.5.2",
+        "latestVersionReleaseDate": "2022-06-10T06:04:27Z",
+        "originalUploadDate": "2014-05-20T20:09:35Z",
+        "versionHistory": "2.5.2, 2.5.1, 2.5.1, 2.5, 2.3, 2.2, 2.1, 2",
+        "availableDownloads": [
+          {
+            "fileName": "Extended Enclave.2.5.2.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PartySwap/Extended Enclave Compatch",
+      "url": "https://deadlystream.com/files/file/1304-partyswap-and-extended-enclave-compatibility-patch/",
+      "metadata": {
+        "title": "PartySwap and Extended Enclave Compatibility Patch",
+        "author": "Leilukin",
+        "latestVersion": "1.8.5",
+        "latestVersionReleaseDate": "2026-06-21T10:17:45Z",
+        "originalUploadDate": "2018-07-06T21:33:24Z",
+        "versionHistory": "1.8.5, 1.8.4, 1.8.3, 1.8.2a, 1.8.2, 1.8.1, 1.8, 1.7.1, 1.7, 1.6a, 1.6, 1.5, 1.4, 1.3, 1.2",
+        "availableDownloads": [
+          {
+            "fileName": "PartySwap_EEnclave_ComPatch.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Extended Korriban Arrival",
+      "url": "http://deadlystream.com/files/file/250-extended-korriban-arrival/",
+      "metadata": {
+        "title": "Extended Korriban Arrival",
+        "author": "danil-ch",
+        "latestVersion": "1.2",
+        "latestVersionReleaseDate": "2021-01-07T20:52:54Z",
+        "originalUploadDate": "2012-10-23T13:51:09Z",
+        "versionHistory": "1.2, 1.2",
+        "availableDownloads": [
+          {
+            "fileName": "Extended Korriban Arrival 1.2.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Prologue Item Recovery",
+      "url": "https://deadlystream.com/files/file/2211-prologue-item-recovery/",
+      "metadata": {
+        "title": "Prologue Item Recovery",
+        "author": "Leilukin",
+        "latestVersion": "1.0.1",
+        "latestVersionReleaseDate": "2026-06-21T05:43:12Z",
+        "originalUploadDate": "2022-11-27T02:19:41Z",
+        "versionHistory": "1.0.1, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Prologue Item Recovery.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Balance Tweak Pack",
+      "url": "https://deadlystream.com/files/file/1790-balance-tweak-pack/",
+      "metadata": {
+        "title": "Balance Tweak Pack",
+        "author": "Pavijan357",
+        "latestVersion": "1.1.0",
+        "latestVersionReleaseDate": "2021-11-22T09:43:09Z",
+        "originalUploadDate": "2020-11-29T16:02:11Z",
+        "versionHistory": "1.1.0, 1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Balance Tweak Pack 1.1.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mines Overhaul",
+      "url": "https://deadlystream.com/files/file/2753-mines-overhaul-tsl/",
+      "metadata": {
+        "title": "Mines Overhaul [TSL]",
+        "author": "offthegridmorty",
+        "latestVersion": "1.1.0",
+        "latestVersionReleaseDate": "2026-03-23T00:50:01Z",
+        "originalUploadDate": "2025-06-08T07:08:07Z",
+        "versionHistory": "1.1.0, 1.0.2, 1.0.1, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Mines_Overhaul_TSL_v1_1.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "No Health Regeneration",
+      "url": "https://deadlystream.com/files/file/2530-no-health-regeneration/",
+      "metadata": {
+        "title": "No Health Regeneration",
+        "author": "offthegridmorty",
+        "latestVersion": "1.1.1",
+        "latestVersionReleaseDate": "2026-08-12T07:44:32Z",
+        "originalUploadDate": "2024-09-17T03:29:52Z",
+        "versionHistory": "1.1.1, 1.0.1, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "No_Health_Regeneration_v1_1_1.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Thematic Sith Lords",
+      "url": "https://deadlystream.com/files/file/1535-thematic-sith-lords/",
+      "metadata": {
+        "title": "Thematic Sith Lords",
+        "author": "Snigaroo",
+        "latestVersion": "2.0",
+        "latestVersionReleaseDate": "2025-01-03T20:30:58Z",
+        "originalUploadDate": "2019-12-17T03:22:50Z",
+        "versionHistory": "2.0, 1.2, 1.1.1, 1.1.0, 1.1.0, 1.1.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Thematic Sith Lords 2.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Thematic Jedi Masters",
+      "url": "https://deadlystream.com/files/file/2633-thematic-jedi-masters/",
+      "metadata": {
+        "title": "Thematic Jedi Masters",
+        "author": "Snigaroo",
+        "latestVersion": "1.0.1",
+        "latestVersionReleaseDate": "2026-09-16T01:10:21Z",
+        "originalUploadDate": "2025-01-03T23:49:25Z",
+        "versionHistory": "1.0.1, 1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "KOTOR2-Thematic-Jedi-Masters_v1.0.1.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Better Disciple Meditation",
+      "url": "https://deadlystream.com/files/file/2612-better-disciple-meditation/",
+      "metadata": {
+        "title": "Better Disciple Meditation",
+        "author": "offthegridmorty",
+        "latestVersion": "1.0.1",
+        "latestVersionReleaseDate": "2024-12-17T23:25:33Z",
+        "originalUploadDate": "2024-12-10T06:35:44Z",
+        "versionHistory": "1.0.1, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Better Disciple Meditation.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bao-Dur Can Wear Heavy Armor",
+      "url": "https://deadlystream.com/files/file/2189-bao-dur-can-wear-heavy-armor/",
+      "metadata": {
+        "title": "Bao-Dur Can Wear Heavy Armor",
+        "author": "Effix",
+        "latestVersion": "1.0.0",
+        "latestVersionReleaseDate": "2022-11-01T12:37:45Z",
+        "originalUploadDate": "2022-10-31T20:50:27Z",
+        "versionHistory": "1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Bao-Dur_Can_Wear_Heavy_Armor.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "JC's Crystal Attunement",
+      "url": "https://deadlystream.com/files/file/2269-jcs-crystal-attunement-for-k2/",
+      "metadata": {
+        "title": "JC's Crystal Attunement for K2",
+        "author": "JCarter426",
+        "latestVersion": "2.0.5",
+        "latestVersionReleaseDate": "2026-07-22T01:40:43Z",
+        "originalUploadDate": "2023-03-13T08:46:35Z",
+        "versionHistory": "2.0.5, 2.0.4, 2.0.3, 2.0.2, 2.0.1, 2.0.0, 1.1, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "KOTOR2-Crystal-Attunement_v2.0.5.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Better Jekk'Jekk'Tarr Thugs",
+      "url": "https://deadlystream.com/files/file/2684-better-jekkjekk-tarr-thugs/",
+      "metadata": {
+        "title": "Better Jekk'Jekk Tarr Thugs",
+        "author": "SuperChameau",
+        "latestVersionReleaseDate": "2025-03-08T19:14:48Z",
+        "originalUploadDate": "2025-03-08T19:14:48Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "Better Jekk'Jekk Tarr Thugs.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Logical Jekk'Jekk'Tarr",
+      "url": "https://deadlystream.com/files/file/2790-logical-jekkjekk-tarr/",
+      "metadata": {
+        "title": "Logical Jekk'Jekk Tarr",
+        "author": "N-DReW25",
+        "latestVersion": "1.1.0",
+        "latestVersionReleaseDate": "2025-09-14T12:20:47Z",
+        "originalUploadDate": "2025-07-26T14:08:36Z",
+        "versionHistory": "1.1.0, 1.1.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "LJJT1.2.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mira's Vanilla Escape for TSLRCM",
+      "url": "https://deadlystream.com/files/file/2671-miras-vanilla-escape-for-tslrcm/",
+      "metadata": {
+        "title": "Mira's Vanilla Escape for TSLRCM",
+        "author": "WildKarrde",
+        "latestVersionReleaseDate": "2025-03-02T00:40:52Z",
+        "originalUploadDate": "2025-03-01T22:13:41Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "TSL Mira's Vanilla Escape for TSLRCM v1_0.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kreia's Lightsaber/Longsword",
+      "url": "https://deadlystream.com/files/file/1538-kreias-lightsaber-long-sword/",
+      "metadata": {
+        "title": "Kreia's Lightsaber / Long sword",
+        "author": "bead-v",
+        "latestVersion": "1.1.0",
+        "latestVersionReleaseDate": "2020-01-02T21:14:45Z",
+        "originalUploadDate": "2019-12-17T22:39:27Z",
+        "versionHistory": "1.1.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "KreiasLightsaberLongSword_v1.1.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Harbinger Arrival Performance Enhancement",
+      "url": "https://deadlystream.com/files/file/2027-harbingers-arrival-performance-enhancement-for-tslrcm/",
+      "metadata": {
+        "title": "Harbinger's Arrival Performance Enhancement for TSLRCM",
+        "author": "PapaZinos",
+        "latestVersion": "1.1.0",
+        "latestVersionReleaseDate": "2023-05-15T18:48:48Z",
+        "originalUploadDate": "2022-03-17T21:04:40Z",
+        "versionHistory": "1.1.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Harbinger_Arrival_Enhancement_for_TSLRCM_v1.1.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Visas Voiceover Tweak",
+      "url": "http://deadlystream.com/files/file/431-nihilusvisas-scene-vo-tweak/",
+      "metadata": {
+        "title": "Nihilus/Visas scene VO tweak",
+        "author": "danil-ch",
+        "latestVersionReleaseDate": "2021-01-07T20:50:48Z",
+        "originalUploadDate": "2014-05-23T14:11:15Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "Nihilus_Visas.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Darth Sion and the Male Exile",
+      "url": "http://deadlystream.com/files/file/996-darth-sion-and-male-exile-mod/",
+      "metadata": {
+        "title": "Darth Sion and Male Exile Mod",
+        "author": "Leilukin",
+        "latestVersion": "1.3.3",
+        "latestVersionReleaseDate": "2026-06-21T10:31:24Z",
+        "originalUploadDate": "2017-01-11T16:39:44Z",
+        "versionHistory": "1.3.3, 1.3.2, 1.3.1, 1.3, 1.2.3, 1.2.2, 1.2.1, 1.2, 1.1, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "Darth Sion and Male Exile Mod.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sith Assassins with Lightsabers",
+      "url": "https://deadlystream.com/files/file/2631-sith-assassins-with-lightsabers/",
+      "metadata": {
+        "title": "Sith Assassins With Lightsabers",
+        "author": "Lewok2007",
+        "latestVersion": "2.0.0",
+        "latestVersionReleaseDate": "2026-02-03T19:12:13Z",
+        "originalUploadDate": "2024-12-31T18:43:00Z",
+        "versionHistory": "2.0.0, 1.3.0, 1.2.1, 1.2.1, 1.2.0, 1.2.0, 1.2.0, 1.2.0, 1.1.0, 1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "SAWL_2.0.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "True Sith Assassins",
+      "url": "https://deadlystream.com/files/file/2649-true-sith-assassins-awareness-restoration/",
+      "metadata": {
+        "title": "True Sith Assassins & Awareness Restoration",
+        "author": "offthegridmorty",
+        "latestVersion": "1.1.0",
+        "latestVersionReleaseDate": "2025-06-02T19:57:39Z",
+        "originalUploadDate": "2025-01-26T20:33:05Z",
+        "versionHistory": "1.1.0, 1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "True_Sith_Assassins_v1c1.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "For Mandalore!",
+      "url": "https://deadlystream.com/files/file/2666-for-mandalore/",
+      "metadata": {
+        "title": "For Mandalore!",
+        "author": "offthegridmorty",
+        "latestVersion": "1.2.1",
+        "latestVersionReleaseDate": "2026-03-16T01:39:17Z",
+        "originalUploadDate": "2025-02-16T06:46:11Z",
+        "versionHistory": "1.2.1, 1.2.0, 1.1.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "For_Mandalore_v1_2_1.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Peragus Medical Bay Enhancement",
+      "url": "https://deadlystream.com/files/file/2513-peragus-medical-bay-enhancement/",
+      "metadata": {
+        "title": "Peragus Medical Bay Enhancement",
+        "author": "WildKarrde",
+        "latestVersion": "1.3",
+        "latestVersionReleaseDate": "2025-01-16T02:10:09Z",
+        "originalUploadDate": "2024-08-17T05:10:41Z",
+        "versionHistory": "1.3, 1.2.1, 1.2, 1.1, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "Peragus Medical Bay Enhancement v1_3.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "High Quality Blasters",
+      "url": "http://deadlystream.com/files/file/915-high-quality-blasters/",
+      "metadata": {
+        "title": "High Quality Blasters",
+        "author": "Sithspecter",
+        "latestVersion": "1.1",
+        "latestVersionReleaseDate": "2019-10-25T21:26:02Z",
+        "originalUploadDate": "2016-09-19T16:15:39Z",
+        "versionHistory": "1.1, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "TSL_High_Quality_Blasters.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Droid Models Animation Fix",
+      "url": "https://deadlystream.com/files/file/2748-droid-models-animation-fix/",
+      "metadata": {
+        "title": "Droid models animation fix",
+        "author": "CapitaineSpoque",
+        "latestVersion": "1.0.0",
+        "latestVersionReleaseDate": "2025-05-30T20:37:15Z",
+        "originalUploadDate": "2025-05-30T09:16:08Z",
+        "versionHistory": "1.0.0, 1.1.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Droid animations fix.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Quarterstaff Replacement Pack",
+      "url": "http://deadlystream.com/files/file/218-quarterstaff-replacement-pack/",
+      "metadata": {
+        "title": "Quarterstaff Replacement Pack",
+        "author": "DeadMan",
+        "latestVersion": "09/04/2018 01:03 PM",
+        "latestVersionReleaseDate": "2018-09-04T13:03:06Z",
+        "originalUploadDate": "2012-09-08T10:51:16Z",
+        "versionHistory": "09/04/2018 01:03 PM, 12/03/2016 07:33 AM, 09/29/2015 07:04 AM",
+        "availableDownloads": [
+          {
+            "fileName": "dm_qrts.rar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AI Upscaled Icon Overhaul",
+      "url": "https://deadlystream.com/files/file/1536-tsl-ai-upscaled-icon-overhaul/",
+      "metadata": {
+        "title": "TSL - AI Upscaled Icon Overhaul",
+        "author": "Pramod Marlon",
+        "latestVersion": "1.0.0",
+        "latestVersionReleaseDate": "2019-12-19T15:49:24Z",
+        "originalUploadDate": "2019-12-17T14:19:54Z",
+        "versionHistory": "1.0.0, 1.0.0, 1.0.0, 1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "TSL - AI Upscaled Icon Overhaul (All in One).7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rescaled Trandoshans",
+      "url": "https://deadlystream.com/files/file/946-re-scaled-trandoshans/",
+      "metadata": {
+        "title": "Re-scaled Trandoshans",
+        "author": "Schizo",
+        "latestVersionReleaseDate": "2016-11-25T07:52:29Z",
+        "originalUploadDate": "2016-11-25T07:52:29Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "Rescaled Trandoshans.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Visually Repair HK-47",
+      "url": "https://deadlystream.com/files/file/1434-visually-repair-hk-47/",
+      "metadata": {
+        "title": "Visually Repair HK-47",
+        "author": "Kexikus",
+        "latestVersion": "1.1",
+        "latestVersionReleaseDate": "2025-01-21T13:18:15Z",
+        "originalUploadDate": "2019-01-25T10:10:34Z",
+        "versionHistory": "1.1, 1.0.1, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "RepairHK47_v1_1.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TSL Expanded Ending",
+      "url": "https://deadlystream.com/files/file/2672-tsl-expanded-ending/",
+      "metadata": {
+        "title": "TSL Expanded Ending",
+        "author": "WildKarrde",
+        "latestVersion": "1.1",
+        "latestVersionReleaseDate": "2026-07-20T01:23:09Z",
+        "originalUploadDate": "2025-03-02T08:01:44Z",
+        "versionHistory": "1.1, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "TSL Expanded Ending v1_1.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Consistent Bastila Recognition",
+      "url": "https://deadlystream.com/files/file/2695-consistent-bastila-recognition/",
+      "metadata": {
+        "title": "Consistent Bastila Recognition",
+        "author": "Leilukin",
+        "latestVersion": "1.0.1",
+        "latestVersionReleaseDate": "2026-06-06T14:11:29Z",
+        "originalUploadDate": "2025-03-25T10:25:28Z",
+        "versionHistory": "1.0.1",
+        "availableDownloads": [
+          {
+            "fileName": "Consistent Bastila Recognition.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Handmaiden - Fit and Athletic",
+      "url": "http://deadlystream.com/files/file/846-handmaiden-fit-and-athletic/",
+      "metadata": {
+        "title": "Handmaiden - Fit and Athletic",
+        "author": "Fair Strides",
+        "latestVersion": "1.0",
+        "latestVersionReleaseDate": "2016-03-29T01:06:06Z",
+        "originalUploadDate": "2016-03-29T01:06:06Z",
+        "versionHistory": "1.0",
+        "availableDownloads": [
+          {
+            "fileName": "FS_Fit_Handmaiden.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Handmaiden - Fit and Athletic [Patch]",
+      "url": "https://mega.nz/#!gcxRTYTJ!ILbLFRyGEr4lGZYDOLN_Qg17fCm-TJw4Y1RDuy4WiWI"
+    },
+    {
+      "name": "JC's Handmaiden Sisters",
+      "url": "https://deadlystream.com/files/file/810-jcs-handmaiden-sisters/",
+      "metadata": {
+        "title": "JC's Handmaiden Sisters",
+        "author": "JCarter426",
+        "latestVersion": "3.0.0",
+        "latestVersionReleaseDate": "2026-07-22T09:46:58Z",
+        "originalUploadDate": "2016-02-06T07:33:27Z",
+        "versionHistory": "3.0.0, 2.0, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "KOTOR2-Handmaiden-Sisters_v3.0.0.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Replacement Loading Screens",
+      "url": "https://deadlystream.com/files/file/1255-replacement-loading-screens-for-kotor2-original-pack-with-or-without-tslrcm-part-1/",
+      "metadata": {
+        "title": "Replacement Loading Screens for KotOR2: Original Pack (with or without TSLRCM) - Part 1",
+        "author": "Sith Holocron",
+        "latestVersion": "1.2",
+        "latestVersionReleaseDate": "2026-02-23T02:36:12Z",
+        "originalUploadDate": "2018-04-18T07:17:43Z",
+        "versionHistory": "1.2, 1.1",
+        "availableDownloads": [
+          {
+            "fileName": "Replacement Loading Screens for KotOR2 Original Pack Part 1.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Replacement Loading Screens - Part 2",
+      "url": "https://deadlystream.com/files/file/1256-replacement-loading-screens-for-kotor2-original-pack-with-or-without-tslrcm-part-2/",
+      "metadata": {
+        "title": "Replacement Loading Screens for KotOR2: Original Pack (with or without TSLRCM) - Part 2",
+        "author": "Sith Holocron",
+        "latestVersion": "1.1",
+        "latestVersionReleaseDate": "2021-10-30T18:57:42Z",
+        "originalUploadDate": "2018-04-18T07:30:58Z",
+        "versionHistory": "1.1, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "Sith Holocron - Replacement Loading Screens for KotOR2 Original Pack, part 2.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Replacement Loading Screens - Part 3",
+      "url": "https://deadlystream.com/files/file/1257-replacement-loading-screens-for-kotor2-original-pack-with-or-without-tslrcm-part-3/",
+      "metadata": {
+        "title": "Replacement Loading Screens for KotOR2: Original Pack (with or without TSLRCM) - Part 3",
+        "author": "Sith Holocron",
+        "latestVersionReleaseDate": "2019-01-20T16:05:06Z",
+        "originalUploadDate": "2018-04-18T07:39:03Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "Replacement Loading Screens for KotOR2 Original Pack Part 3.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Vibrocutter Changes",
+      "url": "https://deadlystream.com/files/file/2670-vibrocutter-changes/",
+      "metadata": {
+        "title": "Vibrocutter changes",
+        "author": "Lewok2007",
+        "latestVersion": "1.1.0",
+        "latestVersionReleaseDate": "2025-09-03T01:47:10Z",
+        "originalUploadDate": "2025-03-01T21:02:15Z",
+        "versionHistory": "1.1.0, 1.0.0, 1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "VCChanges1.1.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Peragus Large Monitor Adjustment",
+      "url": "http://deadlystream.com/files/file/317-peragus-large-monitor-adjustment/",
+      "metadata": {
+        "title": "Peragus Large Monitor Adjustment",
+        "author": "Sith Holocron",
+        "latestVersion": "1.1",
+        "latestVersionReleaseDate": "2025-09-14T03:34:36Z",
+        "originalUploadDate": "2013-06-24T01:17:49Z",
+        "versionHistory": "1.1, 1.1, 1.0, 1.0, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "SH_Peragus Large Monitor Adjustment.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Replacement Peragus II Artwork",
+      "url": "http://deadlystream.com/files/file/361-replacement-peragus-ii-artwork-by-trench/",
+      "metadata": {
+        "title": "Replacement Peragus II Artwork by Trench",
+        "author": "Sith Holocron",
+        "latestVersion": "1.0",
+        "latestVersionReleaseDate": "2024-11-02T01:19:24Z",
+        "originalUploadDate": "2013-11-16T13:37:54Z",
+        "versionHistory": "1.0, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "Peragus_II_by_Trench.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TSL Galaxy Map Fix Pack",
+      "url": "http://deadlystream.com/files/file/1057-tsl-galaxy-map-fix-pack/",
+      "metadata": {
+        "title": "TSL Galaxy Map Fix Pack",
+        "author": "bead-v",
+        "latestVersion": "1.0",
+        "latestVersionReleaseDate": "2019-08-14T21:54:21Z",
+        "originalUploadDate": "2017-03-24T13:08:15Z",
+        "versionHistory": "1.0, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "TSLGalaxyMapFixPack.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fixed Hologram Models & Admiralty Redux",
+      "url": "https://deadlystream.com/files/file/1201-fixed-hologram-models-and-admiralty-redux-for-tslrcm/",
+      "metadata": {
+        "title": "Fixed Hologram Models and Admiralty Redux for TSLRCM",
+        "author": "DarthParametric",
+        "latestVersion": "1.61",
+        "latestVersionReleaseDate": "2022-08-27T05:55:24Z",
+        "originalUploadDate": "2018-01-19T10:42:06Z",
+        "versionHistory": "1.61, 1.61, 1.61, 1.61, 1.6, 1.4, 1.4, 1.2, 1.3, 1.1, 1.0, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "[TSL]_Fixed_Hologram_Models_and_Admiralty_Redux_for_TSLRCM_v1.61.7z",
+            "remoteFileId": "59252"
+          },
+          {
+            "fileName": "[TSL]_Fixed_Hologram_Models_and_Admiralty_Redux_for_TSLRCM_Robe_Texture_Patch.7z",
+            "remoteFileId": "59253"
+          },
+          {
+            "fileName": "[TSL]_Fixed_Hologram_Models_and_Admiralty_Redux_for_TSLRCM_DS_Bastila_K1_Robes_Patch.7z",
+            "remoteFileId": "59254"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Relighting TSL",
+      "url": "https://deadlystream.com/files/file/2752-relighting-tsl-early-release/",
+      "metadata": {
+        "title": "Relighting TSL",
+        "author": "J",
+        "latestVersion": "2.1.4",
+        "latestVersionReleaseDate": "2025-10-27T20:13:12Z",
+        "originalUploadDate": "2025-06-06T12:19:50Z",
+        "versionHistory": "2.1.4, 2.1.3, 2.1.2, 2.1.1, 2.1, 2.0, 1.3, 1.1, 1.0.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "relightingtsl_101PERt_2.1.zip",
+            "remoteFileId": "83665"
+          },
+          {
+            "fileName": "relightingtsl_102PERfklnt_1.0.zip",
+            "remoteFileId": "83666"
+          },
+          {
+            "fileName": "relightingtsl_003EBOg_1.2.zip",
+            "remoteFileId": "83667"
+          },
+          {
+            "fileName": "relightingtsl_298TELk_1.0.zip",
+            "remoteFileId": "83668"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Companion Starting Armors",
+      "url": "https://deadlystream.com/files/file/2145-k2-companion-starting-armors/",
+      "metadata": {
+        "title": "K2 Companion Starting Armors",
+        "author": "Ol\\u0027 Cappy",
+        "latestVersion": "08/13/2022 08:58 AM",
+        "latestVersionReleaseDate": "2022-08-13T08:58:42Z",
+        "originalUploadDate": "2022-08-12T08:20:48Z",
+        "versionHistory": "08/13/2022 08:58 AM, 08/12/2022 08:20 AM",
+        "availableDownloads": [
+          {
+            "fileName": "K2 Companion Starting Armors 1.1.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Improved LS Enlightenment & DS Corruption Feats",
+      "url": "https://deadlystream.com/files/file/2577-improved-ls-enlightenment-ds-corruption-feats/",
+      "metadata": {
+        "title": "Improved LS Enlightenment & DS Corruption Feats",
+        "author": "offthegridmorty",
+        "latestVersionReleaseDate": "2024-11-04T05:02:49Z",
+        "originalUploadDate": "2024-11-04T05:02:49Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "Improved Enlightenment and Corruption Feats.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Repair Affects Stun Droid",
+      "url": "https://deadlystream.com/files/file/2436-repair-affects-stun-droid-tsl/",
+      "metadata": {
+        "title": "Repair Affects Stun Droid [TSL]",
+        "author": "offthegridmorty",
+        "latestVersionReleaseDate": "2025-03-01T05:53:25Z",
+        "originalUploadDate": "2024-03-10T08:33:47Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "[TSL] Repair Affects Stun Droid.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Improved Force Sight",
+      "url": "https://deadlystream.com/files/file/2651-improved-force-sight/",
+      "metadata": {
+        "title": "Improved Force Sight",
+        "author": "offthegridmorty",
+        "latestVersion": "1.1.2",
+        "latestVersionReleaseDate": "2026-09-20T06:42:14Z",
+        "originalUploadDate": "2025-01-28T00:23:42Z",
+        "versionHistory": "1.1.2, 1.1.1, 1.1.0",
+        "availableDownloads": [
+          {
+            "fileName": "Improved_Force_Sight_v1_1_2.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Alignment Affects Force Powers",
+      "url": "https://deadlystream.com/files/file/2815-alignment-affects-force-powers-tsl/",
+      "metadata": {
+        "title": "Alignment Affects Force Powers [TSL]",
+        "author": "offthegridmorty",
+        "latestVersion": "1.0.1",
+        "latestVersionReleaseDate": "2026-02-07T22:13:54Z",
+        "originalUploadDate": "2025-09-07T05:51:04Z",
+        "versionHistory": "1.0.1, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "Alignment_Affects_Force_Powers_TSL_v101.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ultimate Character Overhaul Patches",
+      "url": "https://www.nexusmods.com/kotor2/mods/1060?tab=files"
+    },
+    {
+      "name": "Bao-Dur/Darth Maul",
+      "url": "https://mega.nz/#!BJgCDJLY!miLH-LcFEgiRWlmfWixicFdn1o_uoFHb76g9NOo0CHM"
+    },
+    {
+      "name": "Realistic Visual Effects",
+      "url": "http://deadlystream.com/files/file/735-realistic-visual-effects/",
+      "metadata": {
+        "title": "Realistic Visual Effects",
+        "author": "Shem",
+        "latestVersionReleaseDate": "2015-11-05T19:16:46Z",
+        "originalUploadDate": "2015-11-05T19:16:05Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "visual_effects_tsl.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Remove Duplicate TGA/TPC",
+      "url": "https://www.nexusmods.com/kotor/mods/1384"
+    },
+    {
+      "name": "Remove Duplicate TGA/TPC - an .sh file for Linux/Mac users",
+      "url": "https://github.com/KOTOR-Community-Portal/mod-builds/blob/main/scripts/k2/tpc-deduper.sh"
+    },
+    {
+      "name": "Thematic Obscured Mausoleum Burial",
+      "url": "https://deadlystream.com/files/file/2663-thematic-obscured-mausoleum-burial/",
+      "metadata": {
+        "title": "Thematic Obscured Mausoleum Burial",
+        "author": "JCarter426",
+        "latestVersion": "1.0.3",
+        "latestVersionReleaseDate": "2025-09-20T08:04:53Z",
+        "originalUploadDate": "2025-02-13T01:39:14Z",
+        "versionHistory": "1.0.3, 1.0.2, 1.0.1, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "KOTOR2-TOMB_v1.0.3.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Character Textures & Model Fixes",
+      "url": "https://deadlystream.com/files/file/2660-4x-upscale-character-textures-model-fixes-tsl/",
+      "metadata": {
+        "title": "4x Upscale+ Character Textures & Model Fixes (TSL)",
+        "author": "redrob41",
+        "latestVersionReleaseDate": "2025-02-07T05:34:41Z",
+        "originalUploadDate": "2025-02-07T05:34:41Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "Upscale+ Character Fixes - TSL V0.52 (4x tga).7z",
+            "remoteFileId": "75358"
+          },
+          {
+            "fileName": "Upscale+ Character Fixes - TSL V0.52 (4x tpc).7z",
+            "remoteFileId": "75359"
+          },
+          {
+            "fileName": "Upscale+ Character Fixes - TSL V0.52 (2x tpc).7z",
+            "remoteFileId": "75360"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Main Menu Fix for Widescreen",
+      "url": "https://deadlystream.com/files/file/1138-tsl-main-menu-model-fix-for-widescreen/",
+      "metadata": {
+        "title": "TSL Main Menu Model Fix for Widescreen",
+        "author": "DarthParametric",
+        "latestVersion": "1.2",
+        "latestVersionReleaseDate": "2024-03-04T07:44:02Z",
+        "originalUploadDate": "2017-08-12T15:28:22Z",
+        "versionHistory": "1.2, 1.2, 1.2, 1.2, 1.1, 1.1, 1.0, 1.0, 1.0",
+        "availableDownloads": [
+          {
+            "fileName": "[TSL]_Main_Menu_Widescreen_Fix_v1.2.7z",
+            "remoteFileId": "70607"
+          },
+          {
+            "fileName": "Updated_TSLRCM_Logo_v1.8.6.7z",
+            "remoteFileId": "70608"
+          }
+        ]
+      }
+    },
+    {
+      "name": "K2 Cutscenes Rescaled",
+      "url": "https://deadlystream.com/files/file/2503-k2-cutscenes-rescaled/",
+      "metadata": {
+        "title": "K2 Cutscenes Rescaled",
+        "author": "Pops Maellard",
+        "latestVersion": "1.1.0",
+        "latestVersionReleaseDate": "2025-05-24T06:18:24Z",
+        "originalUploadDate": "2024-08-06T08:27:58Z",
+        "versionHistory": "1.1.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "k2rs_30fps_1920x1080.7z",
+            "remoteFileId": "74823"
+          },
+          {
+            "fileName": "k2rs_30fps_2560x1440.7z",
+            "remoteFileId": "74824"
+          },
+          {
+            "fileName": "k2rs_30fps_3440x1440.7z",
+            "remoteFileId": "74825"
+          },
+          {
+            "fileName": "k2rs_30fps_3840x2160.7z",
+            "remoteFileId": "74826"
+          },
+          {
+            "fileName": "k2rs_30fps_mods_1920x1080.7z",
+            "remoteFileId": "74827"
+          },
+          {
+            "fileName": "k2rs_30fps_mods_2560x1440.7z",
+            "remoteFileId": "74828"
+          },
+          {
+            "fileName": "k2rs_30fps_mods_3440x1440.7z",
+            "remoteFileId": "74829"
+          },
+          {
+            "fileName": "k2rs_30fps_mods_3840x2160.7z",
+            "remoteFileId": "74830"
+          }
+        ]
+      }
+    },
+    {
+      "name": "KOTOR 2 Remastered Cutscenes",
+      "url": "https://www.nexusmods.com/kotor2/mods/1066/"
+    },
+    {
+      "name": "K2 Loading Screen Rescaled",
+      "url": "https://deadlystream.com/files/file/2622-k2-loading-screen-rescaled/",
+      "metadata": {
+        "title": "K2 Loading Screen Rescaled",
+        "author": "Pops Maellard",
+        "latestVersionReleaseDate": "2025-05-24T06:18:48Z",
+        "originalUploadDate": "2024-12-25T17:12:34Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "load_1920x1080.7z",
+            "remoteFileId": "74844"
+          },
+          {
+            "fileName": "load_2560x1440.7z",
+            "remoteFileId": "74845"
+          },
+          {
+            "fileName": "load_3440x1440.7z",
+            "remoteFileId": "74846"
+          },
+          {
+            "fileName": "load_3840x2160.7z",
+            "remoteFileId": "74847"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Workbench Upgrade Screen Camera Tweak",
+      "url": "https://deadlystream.com/files/file/1743-workbench-upgrade-screen-camera-tweak-for-tsl/",
+      "metadata": {
+        "title": "Workbench Upgrade Screen Camera Tweak for TSL",
+        "author": "DarthParametric",
+        "latestVersionReleaseDate": "2020-07-10T14:46:40Z",
+        "originalUploadDate": "2020-07-10T14:46:40Z",
+        "versionHistory": "",
+        "availableDownloads": [
+          {
+            "fileName": "[TSL]_Workbench_Upgrade_Screen_Camera_Tweak.7z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Upscaled Maps",
+      "url": "https://www.nexusmods.com/kotor2/mods/1086"
+    }
+  ]
+}
