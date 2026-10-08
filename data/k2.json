@@ -2,6 +2,62 @@
   "source": "https://raw.githubusercontent.com/KOTOR-Community-Portal/mod-builds/dev/content/k2/full.md",
   "mods": [
     {
+      "name": "3C-FD Patcher",
+      "url": "https://deadlystream.com/files/file/2734-fog-fix-more-3c-fd-patcher/",
+      "metadata": {
+        "title": "Fog Fix & More - 3C-FD Patcher",
+        "author": "J",
+        "latestVersion": "4.1.2",
+        "latestVersionReleaseDate": "2026-02-07T16:34:42Z",
+        "originalUploadDate": "2025-05-08T11:46:21Z",
+        "versionHistory": "4.1.2, 4.1.0, 4.0.5, 3.1, 2.1.0, 2.0.0, 2.0.0, 1.2.0, 1.2.0",
+        "availableDownloads": [
+          {
+            "fileName": "3C-FD Tool v4.1.2.exe"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Water Restoration",
+      "url": "https://deadlystream.com/files/file/2758-water-restoration/",
+      "metadata": {
+        "title": "Water Restoration",
+        "author": "J",
+        "latestVersion": "3.0",
+        "latestVersionReleaseDate": "2025-11-06T02:41:43Z",
+        "originalUploadDate": "2025-06-21T12:07:28Z",
+        "versionHistory": "3.0, 2.6, 2.5, 2.4, 2.3, 2.1, 2.1, 1.2.0, 1.1.0, 1.1.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "water_restoration_3.0.zip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Stutter Fix and Force Cage Update",
+      "url": "https://deadlystream.com/files/file/2699-stutter-fix-and-force-cage-update/",
+      "metadata": {
+        "title": "Stutter Fix and Force Cage Update",
+        "author": "J",
+        "latestVersion": "1.1.0",
+        "latestVersionReleaseDate": "2025-06-21T09:07:39Z",
+        "originalUploadDate": "2025-03-27T04:03:34Z",
+        "versionHistory": "1.1.0, 1.1.0, 1.0.0",
+        "availableDownloads": [
+          {
+            "fileName": "forcecage_updated_1.1.0.zip",
+            "remoteFileId": "77825"
+          },
+          {
+            "fileName": "plc_frcdist01.txi",
+            "remoteFileId": "77826"
+          }
+        ]
+      }
+    },
+    {
       "name": "4GB Patcher",
       "url": "https://ntcore.com/?page_id=371"
     },
