@@ -14,7 +14,7 @@ public static partial class ModListParser
         }
 
         var mods = new List<ModEntry>();
-        foreach (Match nameMatch in NameLine().Matches(markdown[markerPosition..]))
+        foreach (Match nameMatch in NameLine().Matches(markdown))
         {
             var nameField = nameMatch.Groups[1].Value;
             var links = MarkdownLink().Matches(nameField);
