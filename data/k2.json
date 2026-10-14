@@ -1485,12 +1485,18 @@
       "metadata": {
         "title": "Red floating lightsabers",
         "author": "Crimson Knight",
-        "latestVersionReleaseDate": "2025-01-08T01:30:29Z",
+        "latestVersion": "1.0.0",
+        "latestVersionReleaseDate": "2026-10-13T22:12:43Z",
         "originalUploadDate": "2025-01-08T00:03:38Z",
-        "versionHistory": "",
+        "versionHistory": "1.0.0, 1.0.0",
         "availableDownloads": [
           {
-            "fileName": "CK-Red floating lightsabers.zip"
+            "fileName": "CK-Red floating lightsabers.zip",
+            "remoteFileId": "95228"
+          },
+          {
+            "fileName": "CK-Red floating lightsabers with Force Jump.zip",
+            "remoteFileId": "95229"
           }
         ]
       }
