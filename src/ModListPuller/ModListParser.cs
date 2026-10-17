@@ -14,8 +14,10 @@ public static partial class ModListParser
         }
 
         var mods = new List<ModEntry>();
-        foreach (Match nameMatch in NameLine().Matches(markdown))
+        var nameMatches = NameLine().Matches(markdown);
+        for (var nameIndex = 0; nameIndex < nameMatches.Count; nameIndex++)
         {
+            var nameMatch = nameMatches[nameIndex];
             var nameField = nameMatch.Groups[1].Value;
             var links = MarkdownLink().Matches(nameField);
             if (links.Count == 0)
@@ -36,6 +38,19 @@ public static partial class ModListParser
 
                 mods.Add(new ModEntry(name, links[index].Groups[2].Value));
             }
+
+            var detailsStart = nameMatch.Index + nameMatch.Length;
+            var detailsEnd = nameIndex + 1 < nameMatches.Count
+                ? nameMatches[nameIndex + 1].Index
+                : markdown.Length;
+            var details = markdown[detailsStart..detailsEnd];
+            foreach (Match link in MarkdownLink().Matches(details))
+            {
+                if (IsPatchLabel(CleanLabel(link.Groups[1].Value)))
+                {
+                    mods.Add(new ModEntry($"{parentName} [Patch]", link.Groups[2].Value));
+                }
+            }
         }
 
         return mods;
@@ -43,6 +58,10 @@ public static partial class ModListParser
 
     private static string CleanLabel(string label) =>
         label.Replace("**", "").Replace("__", "").Replace("\\", "").Trim();
+
+    private static bool IsPatchLabel(string label) =>
+        label.Equals("patch", StringComparison.OrdinalIgnoreCase)
+        || label.EndsWith(" patch", StringComparison.OrdinalIgnoreCase);
 
     [GeneratedRegex(@"^\*\*Name:\*\*\s*(.+)$", RegexOptions.Multiline)]
     private static partial Regex NameLine();
