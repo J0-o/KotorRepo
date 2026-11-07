@@ -1574,10 +1574,10 @@
       "metadata": {
         "title": "PartySwap and Extended Enclave Compatibility Patch",
         "author": "Leilukin",
-        "latestVersion": "1.8.5",
-        "latestVersionReleaseDate": "2026-06-21T10:17:45Z",
+        "latestVersion": "1.8.6",
+        "latestVersionReleaseDate": "2026-11-07T13:15:06Z",
         "originalUploadDate": "2018-07-06T21:33:24Z",
-        "versionHistory": "1.8.5, 1.8.4, 1.8.3, 1.8.2a, 1.8.2, 1.8.1, 1.8, 1.7.1, 1.7, 1.6a, 1.6, 1.5, 1.4, 1.3, 1.2",
+        "versionHistory": "1.8.6, 1.8.5, 1.8.4, 1.8.3, 1.8.2a, 1.8.2, 1.8.1, 1.8, 1.7.1, 1.7, 1.6a, 1.6, 1.5, 1.4, 1.3, 1.2",
         "availableDownloads": [
           {
             "fileName": "PartySwap_EEnclave_ComPatch.7z"
@@ -1860,10 +1860,10 @@
       "metadata": {
         "title": "Darth Sion and Male Exile Mod",
         "author": "Leilukin",
-        "latestVersion": "1.3.3",
-        "latestVersionReleaseDate": "2026-06-21T10:31:24Z",
+        "latestVersion": "1.3.4",
+        "latestVersionReleaseDate": "2026-11-07T11:58:58Z",
         "originalUploadDate": "2017-01-11T16:39:44Z",
-        "versionHistory": "1.3.3, 1.3.2, 1.3.1, 1.3, 1.2.3, 1.2.2, 1.2.1, 1.2, 1.1, 1.0",
+        "versionHistory": "1.3.4, 1.3.3, 1.3.2, 1.3.1, 1.3, 1.2.3, 1.2.2, 1.2.1, 1.2, 1.1, 1.0",
         "availableDownloads": [
           {
             "fileName": "Darth Sion and Male Exile Mod.7z"
@@ -2063,10 +2063,10 @@
       "metadata": {
         "title": "Consistent Bastila Recognition",
         "author": "Leilukin",
-        "latestVersion": "1.0.1",
-        "latestVersionReleaseDate": "2026-06-06T14:11:29Z",
+        "latestVersion": "1.1.0",
+        "latestVersionReleaseDate": "2026-11-07T00:37:34Z",
         "originalUploadDate": "2025-03-25T10:25:28Z",
-        "versionHistory": "1.0.1",
+        "versionHistory": "1.1.0, 1.0.1",
         "availableDownloads": [
           {
             "fileName": "Consistent Bastila Recognition.7z"
