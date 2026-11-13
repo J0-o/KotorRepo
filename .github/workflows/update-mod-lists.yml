@@ -21,6 +21,7 @@ jobs:
       - run: dotnet test tests/ModListPuller.Tests/ModListPuller.Tests.csproj
       - run: dotnet run --project src/ModListPuller/ModListPuller.csproj
       - name: Commit changed lists
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -61,3 +62,41 @@ jobs:
 
           git commit -F "$RUNNER_TEMP/commit-message.txt"
           git push
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+      - name: Notify Discord
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          commit_sha="$(git rev-parse HEAD)"
+          short_sha="$(git rev-parse --short HEAD)"
+          commit_subject="$(git log -1 --pretty=%s)"
+          commit_url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/commit/${commit_sha}"
+
+          payload="$(
+            jq -n \
+              --arg repository "$GITHUB_REPOSITORY" \
+              --arg branch "$GITHUB_REF_NAME" \
+              --arg subject "$commit_subject" \
+              --arg sha "$short_sha" \
+              --arg url "$commit_url" \
+              '{
+                content: "A new automated commit was created.",
+                embeds: [{
+                  title: $subject,
+                  url: $url,
+                  color: 5763719,
+                  fields: [
+                    {name: "Repository", value: $repository, inline: true},
+                    {name: "Branch", value: $branch, inline: true},
+                    {name: "Commit", value: $sha, inline: true}
+                  ]
+                }],
+                allowed_mentions: {parse: []}
+              }'
+          )"
+
+          curl --fail-with-body \
+            -H "Content-Type: application/json" \
+            --data "$payload" \
+            "$DISCORD_WEBHOOK_URL"
