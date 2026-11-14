@@ -72,6 +72,7 @@ jobs:
           short_sha="$(git rev-parse --short HEAD)"
           commit_subject="$(git log -1 --pretty=%s)"
           commit_url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/commit/${commit_sha}"
+          updated_mods="$(git log -1 --pretty=%b | sed -n '/^Updated mods:$/,$p' | tail -n +2)"
 
           payload="$(
             jq -n \
@@ -80,6 +81,7 @@ jobs:
               --arg subject "$commit_subject" \
               --arg sha "$short_sha" \
               --arg url "$commit_url" \
+              --arg updated_mods "$updated_mods" \
               '{
                 content: "A new automated commit was created.",
                 embeds: [{
@@ -87,6 +89,11 @@ jobs:
                   url: $url,
                   color: 5763719,
                   fields: [
+                    {
+                      name: "Updated mods",
+                      value: (if ($updated_mods | length) > 1024 then ($updated_mods[0:1021] + "...") else $updated_mods end),
+                      inline: false
+                    },
                     {name: "Repository", value: $repository, inline: true},
                     {name: "Branch", value: $branch, inline: true},
                     {name: "Commit", value: $sha, inline: true}
